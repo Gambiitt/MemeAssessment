@@ -1,0 +1,35 @@
+html{
+    background:repeating-linear-gradient(to top, yellow, lightblue);
+}
+
+
+h1 {
+    filter: drop-shadow(5px 5px 2px lightblue);
+    text-transform: uppercase;
+    color:green;
+    text-align: center;
+    padding-top: 4rem;
+    
+}
+div {
+    align-content: center;
+    margin: 25px auto;
+    width: 550px;
+    font-family: sans-sarif;
+}
+div label{
+    align-content: center;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+div input{
+    width:100%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+#meme {
+width: 100%;
+}
